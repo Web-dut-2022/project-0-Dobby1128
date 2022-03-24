@@ -1,0 +1,22 @@
+div1{
+    position:absolute;
+    top: 5px;
+    right: 10px;
+}
+div0{
+    margin: auto;
+}
+body{
+    background-image: url('胡桃2.jpg');
+    background-repeat:no-repeat;
+    background-position: center;
+    display: flex;
+}
+.blank1{
+    height: 50px;
+    width: 300px;
+}
+.submit1{
+    height: 50px;
+    width: 100px;
+}
